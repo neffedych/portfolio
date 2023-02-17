@@ -84,6 +84,10 @@ a {
   background: #000;
   align-items: center;
 }
+
+.image__services img{
+  margin: 0 auto;
+}
 @font-face {
   font-family: "burtons";
   src: url("../public/Burtons.otf");

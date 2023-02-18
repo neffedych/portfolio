@@ -1,7 +1,7 @@
 # portfolio
 
 Hello, My friend! Welcome to my portfolio. Here are all the projects that I have done in my "software enginner career". 
-You are very welcomed to go to portfolio and learn something new about me.
+You are very welcomed to go through portfolio and learn something new about me.
 
 Link for portfolio: https://portfolio-v2-two-sooty.vercel.app/
 

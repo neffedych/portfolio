@@ -160,30 +160,30 @@ export default function Home() {
           </div>
           
           <div className="skillset">
-            <div className="tooltip" dataName="JavaScript">
+            <div dataName="JavaScript">
               <Image src={js} />
             </div>
             
-            <div className="tooltip" dataName="React">
+            <div dataName="React">
               <Image src={react} />
             </div>
 
-            <div className="tooltip" dataName="CSS">
+            <div dataName="CSS">
               <Image src={css} />
             </div>
-            <div className="tooltip" dataName="HTML">
+            <div dataName="HTML">
               <Image src={html} />
             </div>
-            <div className="tooltip" dataName="Bootstrap">
+            <div dataName="Bootstrap">
               <Image src={boot} />
             </div>
-            <div className="tooltip " dataName="GitHub">
+            <div dataName="GitHub">
               <Image src={gh} />
             </div>
-            <div className="tooltip" dataName="Figma">
+            <div dataName="Figma">
               <Image src={figma} />
             </div>
-            <div className="tooltip" dataName="Jira/Confluence">
+            <div dataName="Jira/Confluence">
               <Image src={jira} />
             </div>
           </div>

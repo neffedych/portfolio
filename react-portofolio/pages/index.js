@@ -120,7 +120,7 @@ export default function Home() {
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <motion.div whileHover={{scale:1.2}}>
-                <Image src={code} width={100} height={100} />
+                <Image className="service-btn" src={code} width={100} height={100} />
               </motion.div>
               <h3 className="text-lg font-bold pt-8 pb-2 ">
                 Code your dream project
@@ -137,7 +137,7 @@ export default function Home() {
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <motion.div whileHover={{scale:1.2}}>
-                <Image src={consulting} width={100} height={100} />
+                <Image className="service-btn" src={consulting} width={100} height={100} />
               </motion.div>
               <h3 className="text-lg font-bold pt-8 pb-2 ">Consulting</h3>
               <p className="py-2">
